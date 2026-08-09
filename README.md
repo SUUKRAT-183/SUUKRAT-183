@@ -45,10 +45,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Sequential Multi-Image Reasoning](https://github.com/SUUKRAT-183)** | Sequence-aware visual reasoning pipeline — fixes a real limitation where LLMs process multiple uploaded images independently instead of in order. Combines CLIP embeddings + BLIP captions with a Gemini vision LLM, behind a provider-agnostic `LLMClient` interface. | `Python` `PyTorch` `CLIP` `BLIP` `Gemini API` `Streamlit` |
-| **[Intrusion Detection System](https://github.com/SUUKRAT-183)** | Network intrusion detection model classifying traffic as malicious/benign using anomaly detection techniques. | `Python` `Scikit-learn` |
-| **[Email Spam Classifier](https://github.com/SUUKRAT-183)** | Spam/ham classifier with a full text preprocessing → feature extraction → training pipeline. | `Python` `Scikit-learn` |
-| **[Domino's Meal Planner](https://github.com/SUUKRAT-183)** | Android app that suggests meal combos within a user's budget, with a dynamic card-based UI. | `Kotlin` `Android Studio` |
+| **[Sequential Multi-Image Reasoning]([https://github.com/SUUKRAT-183](https://github.com/SUUKRAT-183/sequential-image-reasoning))** | Sequence-aware visual reasoning pipeline — fixes a real limitation where LLMs process multiple uploaded images independently instead of in order. Combines CLIP embeddings + BLIP captions with a Gemini vision LLM, behind a provider-agnostic `LLMClient` interface. | `Python` `PyTorch` `CLIP` `BLIP` `Gemini API` `Streamlit` |
+| **[Email Spam Classifier]([https://github.com/SUUKRAT-183](https://github.com/SUUKRAT-183/EMAIL-SPAM-CLASSIFIER-ML-PROJECT))** | Spam/ham classifier with a full text preprocessing → feature extraction → training pipeline. | `Python` `Scikit-learn` |
+| **[Domino's Meal Planner]([https://github.com/SUUKRAT-183](https://github.com/SUUKRAT-183/Dominos_Menu_Selector_in_Budget))** | Android app that suggests meal combos within a user's budget, with a dynamic card-based UI. | `Kotlin` `Android Studio` |
 
 > 📌 *Pin these 4 repos on your profile — see the checklist below.*
 
