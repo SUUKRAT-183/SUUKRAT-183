@@ -49,8 +49,6 @@
 | **[Email Spam Classifier]([https://github.com/SUUKRAT-183](https://github.com/SUUKRAT-183/EMAIL-SPAM-CLASSIFIER-ML-PROJECT))** | Spam/ham classifier with a full text preprocessing → feature extraction → training pipeline. | `Python` `Scikit-learn` |
 | **[Domino's Meal Planner]([https://github.com/SUUKRAT-183](https://github.com/SUUKRAT-183/Dominos_Menu_Selector_in_Budget))** | Android app that suggests meal combos within a user's budget, with a dynamic card-based UI. | `Kotlin` `Android Studio` |
 
-> 📌 *Pin these 4 repos on your profile — see the checklist below.*
-
 ---
 
 ### 📜 Certifications
