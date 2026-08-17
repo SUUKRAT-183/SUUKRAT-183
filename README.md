@@ -53,9 +53,9 @@
 
 ### 📜 Certifications
 - Artificial Intelligence Training & Internship — Naviotech Solutions Pvt. Ltd.
-- Android App Development Training — Humble Coders
-- Mobile App Development Tools Exploration — TIET
-- Handwritten Text Recognition (ELC Activity) — TIET
+- Android App Development Training — Humble Coders.
+- Mobile App Development Tools Exploration — TIET.
+- Handwritten Text Recognition (ELC Activity) — TIET.
 
 ---
 
