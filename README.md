@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Suukrat%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20ML%2FDL%20Enthusiast%20%7C%20Building%20things%20that%20(mostly)%20work&descAlignY=55&descSize=18&descColor=e0e0e0" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=3rd+Year+CSE+Student+%40+Thapar+University;ML%2FDL+%7C+Computer+Vision+%7C+LLM+Tooling;Open+to+SDE+%2F+ML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+**3rd Year CSE Student @ Thapar University · ML/DL · Computer Vision · LLM Tooling**
+**Open to SDE / ML Internships 🚀**
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suukrat-agrawal-882006324/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagrawal2_be24@thapar.edu)
-[![Profile Views](https://komarev.com/ghpvc/?username=SUUKRAT-183&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SUUKRAT-183)
 
 </div>
 
@@ -102,8 +102,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=SUUKRAT-183&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUUKRAT-183&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=SUUKRAT-183&theme=tokyonight&hide_border=true" width="90%"/>
 
 </div>
 
