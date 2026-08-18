@@ -58,10 +58,10 @@
 
 </div>
 
-**Sequential Multi-Image Reasoning** — a sequence-aware visual reasoning pipeline that fixes a real limitation in ChatGPT/Gemini, where multiple uploaded images are processed independently instead of as an ordered sequence. Combines CLIP embeddings + BLIP captions with a Gemini vision LLM, behind a provider-agnostic `LLMClient` interface (swapped models with a one-line change when Gemini deprecated one mid-project). Fixed a payload-size bug enabling reliable 10–11 image batch processing.
+**[Sequential Multi-Image Reasoning](https://github.com/SUUKRAT-183/sequential-image-reasoning)** — a sequence-aware visual reasoning pipeline that fixes a real limitation in ChatGPT/Gemini, where multiple uploaded images are processed independently instead of as an ordered sequence. Combines CLIP embeddings + BLIP captions with a Gemini vision LLM, behind a provider-agnostic `LLMClient` interface (swapped models with a one-line change when Gemini deprecated one mid-project). Fixed a payload-size bug enabling reliable 10–11 image batch processing.
 `Python` `PyTorch` `CLIP` `BLIP` `Gemini API` `Streamlit`
 
-**Email Spam Classifier** — text preprocessing → feature extraction → training pipeline to classify emails as spam or ham.
+**[Email Spam Classifier](https://github.com/SUUKRAT-183/EMAIL-SPAM-CLASSIFIER-ML-PROJECT)** — text preprocessing → feature extraction → training pipeline to classify emails as spam or ham.
 `Python` `Scikit-learn`
 
 <details>
